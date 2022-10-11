@@ -20,5 +20,14 @@ CountVectorizer means breaking down a sentence or any text into words by perform
 ・Imported re<br/>
 A regular expression (RE) is a language for specifying text search strings. RE helps us to match or find other strings or sets of strings, using a specialized syntax held in a pattern.
 
-
+・ Imported SnowballStemmer
 Snowball is a small string processing language for creating stemming algorithms for use in Information Retrieval, plus a collection of stemming algorithms implemented using it.
+
+#### Wordcloud of the review column:
+![image](https://user-images.githubusercontent.com/90775147/195133829-46044484-47d5-4905-8d96-dc33f2037cdb.png)
+
+### Text Vectorization
+Text Vectorization is the process of converting text into numerical representation. It means to transform all the text tokens into numerical vectors.
+
+### Text Classification
+Trained a Text Classification model to analyse sentiment of Review.
